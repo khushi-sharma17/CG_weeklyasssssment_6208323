@@ -1,0 +1,7 @@
+{
+    "url" : "https://www.makemytrip.com/",
+    "flightSearch" : {
+        "fromCity" : "Jaipur",
+        "toCity" : "Bengaluru"
+    }
+}
